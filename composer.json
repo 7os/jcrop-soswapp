@@ -1,0 +1,21 @@
+{
+    "name": "7os/jcrop-soswapp",
+    "description": "tapmodo/Jcrop: optimized for 7 OS web",
+    "keywords": ["css", "javascript","7","seven","os","web","jcrop"],
+    "homepage": "https://github.com/7os/jcrop-soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "me@sirlouis.io"
+        }
+    ],
+    "require": {
+      "7os/jquery-soswapp" : ">=0.1@stable"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {}
+    }
+}
